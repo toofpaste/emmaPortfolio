@@ -13,7 +13,7 @@ html {
     padding-bottom: 120px;
 }
 .allbuttons{
-    width: 44em;
+    width: 24em;
     position: absolute;
     top: -1.5em;
     right: 3em;
@@ -135,7 +135,21 @@ p {
     opacity: 1;
     bottom: 1rem;
 }
-
+#top {
+    text-align: center;
+    font-size: 90px;
+    padding-bottom: 13px;
+    font-family: 'Quicksand', serif;
+}
+#name {
+    font-family: 'Quicksand', serif;
+}
+#resume{
+    font-family: 'Quicksand', serif;
+}
+#pageBreak {
+    font-family: 'Quicksand', serif;
+}
 .sqr p {
     position: absolute;
     bottom: 0;

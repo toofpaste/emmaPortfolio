@@ -28,6 +28,8 @@ import gif26 from './img/SOGNOBADGE copy.png';
 import gif27 from './img/SOGNOVISUALS3 copy.png';
 
 import title from './img/emmaclizbe_1.png';
+import gif28 from './img/4 key components copy.png';
+import gif29 from './img/SHADTWITFINAL copy.png';
 // import gif28 from './img/k2creative.gif';
 // import gif29 from './img/k2creative.gif';
 // import gif30 from './img/k2creative.gif';
@@ -59,10 +61,12 @@ const ele23 = document.getElementById("test23");
 const ele24 = document.getElementById("test24");
 const ele25 = document.getElementById("test25");
 const ele26 = document.getElementById("test26");
+
 const ele27 = document.getElementById("test27");
 const ele28 = document.getElementById("test28");
-const ele29 = document.getElementById("test29");
+// const ele29 = document.getElementById("test29");
 const eleTitle = document.getElementById("titleImage");
+
 eleTitle.src = title;
 import pd from './img/RESUME.pdf';
 const elep = document.getElementById('resume');
@@ -107,9 +111,9 @@ ele24.src = gif25;
 ele25.src = gif26;
 ele26.src = gif27;
 
-ele27.src = gif;
-ele28.src = gif;
-ele29.src = gif;
+ele27.src = gif28;
+ele28.src = gif29;
+// ele29.src = gif;
 
 $(document).ready(function(){
 });
