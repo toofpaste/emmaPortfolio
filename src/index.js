@@ -26,6 +26,8 @@ import gif24 from './img/Screen Shot 2017-10-16 at 12.36.09 AM.png';
 import gif25 from './img/Screen Shot 2017-10-16 at 12.38.49 AM.png';
 import gif26 from './img/SOGNOBADGE copy.png';
 import gif27 from './img/SOGNOVISUALS3 copy.png';
+
+import title from './img/emmaclizbe_1.png';
 // import gif28 from './img/k2creative.gif';
 // import gif29 from './img/k2creative.gif';
 // import gif30 from './img/k2creative.gif';
@@ -60,7 +62,9 @@ const ele26 = document.getElementById("test26");
 const ele27 = document.getElementById("test27");
 const ele28 = document.getElementById("test28");
 const ele29 = document.getElementById("test29");
-import pd from './ResumeSeptember2019.pdf';
+const eleTitle = document.getElementById("titleImage");
+eleTitle.src = title;
+import pd from './img/RESUME.pdf';
 const elep = document.getElementById('resume');
 elep.href = pd;
 
