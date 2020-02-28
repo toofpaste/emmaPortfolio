@@ -3,7 +3,6 @@ import gif from './img/portfolio-eblm1.gif';
 import gif1 from './img/portfolio-eblm2.gif';
 import gif2 from './img/portfolio-expensive.gif';
 import gif3 from './img/portfolio-letugo1.gif';
-// import gif4 from './img/portfolio-mad1.gif';
 import gif5 from './img/portfolio-mad2.gif';
 import gif6 from './img/portfolio_gyw.gif';
 import gif7 from './img/portfolio_language1.gif';
@@ -12,10 +11,12 @@ import gif9 from './img/portfolio_mad3.gif';
 import gif10 from './img/portfolio_mad4.gif';
 import gif11 from './img/portfolio_pickitup1.gif';
 import gif12 from './img/portfolio_pickitup2.gif';
-import gif13 from './img/portfolio_shake1.gif';
-import gif14 from './img/portfolio_shake2.gif';
+import gif13 from './img/caelus1.gif';
+import gif14 from './img/caelus3.gif';
 import gif15 from './img/portfolio_shake3.gif';
-// import gif16 from './img/portfolio_shake4.gif';
+import gif16 from './img/jasonoakes.gif';
+import gif17 from './img/caelus4.gif';
+import gif18 from './img/k2creative.gif';
 const ele = document.getElementById("test");
 const ele1 = document.getElementById("test1");
 const ele2 = document.getElementById("test2");
@@ -42,39 +43,57 @@ const ele22 = document.getElementById("test22");
 const ele23 = document.getElementById("test23");
 const ele24 = document.getElementById("test24");
 const ele25 = document.getElementById("test25");
+const ele26 = document.getElementById("test26");
+const ele27 = document.getElementById("test27");
+const ele28 = document.getElementById("test28");
+const ele29 = document.getElementById("test29");
 import pd from './ResumeSeptember2019.pdf';
 const elep = document.getElementById('resume');
 elep.href = pd;
+
 ele.src = gif5;
-ele1.src = gif2;
+ele1.src = gif9;
 ele2.src = gif10;
 
 ele3.src = gif7;
 ele4.src = gif8;
-ele5.src = gif9;
+ele5.src = gif2;
 
 ele6.src = gif;
 ele7.src = gif3;
 ele8.src = gif1;
 
 ele9.src = gif11;
-ele10.src = gif6;
+ele10.src = gif15;
 ele11.src = gif12;
 
-ele12.src = gif13;
-ele13.src = gif15;
-ele14.src = gif14;
-// ele15.src = gif16;
-// ele16.src = gif16;
-ele17.src = gif;
+ele12.src = gif16;
+ele13.src = gif17;
+ele14.src = gif6;
+
+ele15.src = gif13;
+ele16.src = gif18;
+ele17.src = gif14;
+
+
+
+
 ele18.src = gif;
 ele19.src = gif;
 ele20.src = gif;
+
 ele21.src = gif;
 ele22.src = gif;
 ele23.src = gif;
+
 ele24.src = gif;
 ele25.src = gif;
+ele26.src = gif;
+
+ele27.src = gif;
+ele28.src = gif;
+ele29.src = gif;
+
 $(document).ready(function(){
 });
 //
