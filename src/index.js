@@ -17,6 +17,19 @@ import gif15 from './img/portfolio_shake3.gif';
 import gif16 from './img/jasonoakes.gif';
 import gif17 from './img/caelus4.gif';
 import gif18 from './img/k2creative.gif';
+import gif19 from './img/AMRLLCLOGO-01.png';
+import gif20 from './img/caelus1 copy.png';
+import gif21 from './img/ICONS copy.png';
+import gif22 from './img/LOGOS2 copy.png';
+import gif23 from './img/Screen Shot 2017-02-13 at 12.59.33 AM.png';
+import gif24 from './img/Screen Shot 2017-10-16 at 12.36.09 AM.png';
+import gif25 from './img/Screen Shot 2017-10-16 at 12.38.49 AM.png';
+import gif26 from './img/SOGNOBADGE copy.png';
+import gif27 from './img/SOGNOVISUALS3 copy.png';
+// import gif28 from './img/k2creative.gif';
+// import gif29 from './img/k2creative.gif';
+// import gif30 from './img/k2creative.gif';
+
 const ele = document.getElementById("test");
 const ele1 = document.getElementById("test1");
 const ele2 = document.getElementById("test2");
@@ -78,17 +91,17 @@ ele17.src = gif14;
 
 
 
-ele18.src = gif;
-ele19.src = gif;
-ele20.src = gif;
+ele18.src = gif19;
+ele19.src = gif20;
+ele20.src = gif21;
 
-ele21.src = gif;
-ele22.src = gif;
-ele23.src = gif;
+ele21.src = gif22;
+ele22.src = gif23;
+ele23.src = gif24;
 
-ele24.src = gif;
-ele25.src = gif;
-ele26.src = gif;
+ele24.src = gif25;
+ele25.src = gif26;
+ele26.src = gif27;
 
 ele27.src = gif;
 ele28.src = gif;
