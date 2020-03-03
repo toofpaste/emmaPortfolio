@@ -26,11 +26,9 @@ import gif24 from './img/Screen Shot 2017-10-16 at 12.36.09 AM.png';
 import gif25 from './img/Screen Shot 2017-10-16 at 12.38.49 AM.png';
 import gif26 from './img/SOGNOBADGE copy.png';
 import gif27 from './img/SOGNOVISUALS3 copy.png';
-
 import title from './img/emmaclizbe_1.png';
-// import gif28 from './img/k2creative.gif';
-// import gif29 from './img/k2creative.gif';
-// import gif30 from './img/k2creative.gif';
+import gif28 from './img/4 key components copy.png';
+import gif29 from './img/SHADTWITFINAL copy.png';
 
 const ele = document.getElementById("test");
 const ele1 = document.getElementById("test1");
@@ -59,10 +57,11 @@ const ele23 = document.getElementById("test23");
 const ele24 = document.getElementById("test24");
 const ele25 = document.getElementById("test25");
 const ele26 = document.getElementById("test26");
+
 const ele27 = document.getElementById("test27");
 const ele28 = document.getElementById("test28");
-const ele29 = document.getElementById("test29");
 const eleTitle = document.getElementById("titleImage");
+
 eleTitle.src = title;
 import pd from './img/RESUME.pdf';
 const elep = document.getElementById('resume');
@@ -107,49 +106,5 @@ ele24.src = gif25;
 ele25.src = gif26;
 ele26.src = gif27;
 
-ele27.src = gif;
-ele28.src = gif;
-ele29.src = gif;
-
-$(document).ready(function(){
-});
-//
-// $(window).on("scroll", function() {
-//     var scrollTop = $(window).scrollTop();
-//     var oddImgPos = scrollTop / 3 + 'px';
-//     var evenImgPos = (scrollTop/5) / 2.5 + 'px';
-//     var p = $( "#p2" ).first();
-//     var position = p.position();
-//     //all end at 255
-//     // $( "#p1" ).first().position().top;
-//     // $( "#p2" ).first().position().top;
-//     // $( "#p3" ).first().position().top;
-//     // $( "#p4" ).first().position().top;
-//     // $( "#p5" ).first().position().top;
-//     // $( "#p6" ).first().position().top;
-//     // $( "#p7" ).first().position().top;
-//     // $( "#p8" ).first().position().top;
-//     // $( "#p9" ).first().position().top;
-//     // $( "#p10" ).first().position().top;
-//     // $( "#p11" ).first().position().top;
-//     // $( "#p12" ).first().position().top;
-//     // $( "#p13" ).first().position().top;
-//     // $( "#p14" ).first().position().top;
-//     // $( "#p15" ).first().position().top;
-//     // $( "#p16" ).first().position().top;
-//     // $( "#p17" ).first().position().top;
-//     // $( "#p18" ).first().position().top;
-//     // $( "#p19" ).first().position().top;
-//     // $( "#p20" ).first().position().top;
-//     // $( "#p21" ).first().position().top;
-//     // $( "#p22" ).first().position().top;
-//     // $( "#p23" ).first().position().top;
-//     // $( "#p24" ).first().position().top;
-//     // $( "#p25" ).first().position().top;
-//     // $( "#p26" ).first().position().top;
-//             $('.grid').find("p").css('transform', 'translateY(-' + evenImgPos + ')');
-//         // $('#img2').find("#p2").css('transform', 'translateY(-' + evenImgPos + ')');
-//     // if($('#img2').is(":visible")) {
-//     //     $('#img2').find("#p2").css('transform', 'translateY(-' + evenImgPos + ')');
-//     // }
-// });
+ele27.src = gif28;
+ele28.src = gif29;

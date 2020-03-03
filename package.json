@@ -2,7 +2,10 @@
   "name": "template",
   "version": "1.0.0",
   "description": "",
-  "main": "main.js",
+  "main": "index.js",
+  "engines": {
+    "node": "12.10.0"
+  },
   "scripts": {
     "test": "jest --watchAll --coverage",
     "build": "webpack",
@@ -34,7 +37,6 @@
     "webpack-dev-server": "^3.4.1"
   },
   "dependencies": {
-    "aos": "^2.3.4",
     "bootstrap": "^4.3.1",
     "jquery": "^3.4.1",
     "jquery.terminal": "^2.6.2",
